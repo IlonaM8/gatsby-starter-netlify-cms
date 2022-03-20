@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Landing page per social$free
+title: Social4Free
 image: /img/home-jumbotron.jpg
 heading: web agency creativa
-subheading: Un gruppo di 6 giovani
+subheading: "la la la "
 mainpitch:
   title: Why Kaldi
   description: >
