@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Social4Free
-image: /img/home-jumbotron.jpg
+image: /img/3.png
 heading: web agency creativa
 subheading: "la la la "
 mainpitch:
