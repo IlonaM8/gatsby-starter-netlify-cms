@@ -5,7 +5,7 @@ image: /img/3.png
 heading: web agency creativa
 subheading: "la la la "
 mainpitch:
-  title: Why Kaldi
+  title: Why social4free
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
